@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>geststocks</name>
+	<displayName><![CDATA[Gestión Stock]]></displayName>
+	<version><![CDATA[8.0.0]]></version>
+	<description><![CDATA[Módulo para la gestión de stock]]></description>
+	<author><![CDATA[Sebastian Luna]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
